@@ -18,4 +18,8 @@ list to come back to
 - https://learn.microsoft.com/en-au/windows/win32/coreaudio/audio-endpoint-devices
 
 
+Kernel mode driver debugging
+https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debug-universal-drivers--kernel-mode-
+
+
 nice layout https://basicpitch.spotify.com/about
